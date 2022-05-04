@@ -11,6 +11,8 @@
         <Button Clicked="Activity01" Text="Activity 1" BackgroundColor="LightBlue"/>
         <Button Clicked="Activity02" Text="Activity 2" BackgroundColor="LightBlue"/>
         <Button Clicked="Activity03" Text="Activity 3" BackgroundColor="LightBlue"/>
+        <Button Clicked="Activity04" Text="Activity 4" BackgroundColor="LightBlue"/>
+        <Button Clicked="Activity05" Text="Activity 5" BackgroundColor="LightBlue"/>
     </StackLayout>
 
 </ContentPage>
